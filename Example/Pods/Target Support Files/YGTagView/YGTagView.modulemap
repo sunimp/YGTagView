@@ -1,0 +1,6 @@
+framework module YGTagView {
+  umbrella header "YGTagView-umbrella.h"
+
+  export *
+  module * { export * }
+}

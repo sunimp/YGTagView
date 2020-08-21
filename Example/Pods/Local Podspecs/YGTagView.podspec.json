@@ -1,0 +1,22 @@
+{
+  "name": "YGTagView",
+  "version": "0.1.0",
+  "summary": "A short description of YGTagView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/holaux@gmail.com/YGTagView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "holaux@gmail.com": "holaux@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/holaux@gmail.com/YGTagView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YGTagView/Classes/**/*"
+}

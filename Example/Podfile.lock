@@ -1,0 +1,16 @@
+PODS:
+  - YGTagView (0.1.0)
+
+DEPENDENCIES:
+  - YGTagView (from `../`)
+
+EXTERNAL SOURCES:
+  YGTagView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YGTagView: b9d6e17a9b48356d51cd029d4807d4a283bc098b
+
+PODFILE CHECKSUM: c2b08cfc8761cd8261dbfc78a2259ef885fe36a8
+
+COCOAPODS: 1.10.0.beta.1

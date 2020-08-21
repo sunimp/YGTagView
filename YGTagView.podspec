@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'YGTagView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of YGTagView.'
+  s.summary          = '多标签选择视图.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,17 +18,17 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  多标签选择，支持多种样式自定义.
                        DESC
 
-  s.homepage         = 'https://github.com/holaux@gmail.com/YGTagView'
+  s.homepage         = 'https://github.com/oneofai/YGTagView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'holaux@gmail.com' => 'holaux@gmail.com' }
-  s.source           = { :git => 'https://github.com/holaux@gmail.com/YGTagView.git', :tag => s.version.to_s }
+  s.author           = { 'Sun' => 'holaux@gmail.com' }
+  s.source           = { :git => 'https://github.com/oneofai/YGTagView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'YGTagView/Classes/**/*'
   
